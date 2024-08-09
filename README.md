@@ -22,10 +22,9 @@ Check out the live demo [here](https://infinite-scroll-alpha-six.vercel.app/#top
 
  - Node.js and npm (Node Package Manager) installed on your machine.
 
-### Setup
+### Install Dependencies
 
- - **Install Dependencies:**
-   - `npm i`
+ - `npm i`
 
 ### Run the project:
  - `npm start`
