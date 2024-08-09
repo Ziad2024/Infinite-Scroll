@@ -7,11 +7,13 @@ Check out the live demo [here](https://github.com/Ziad2024/Infinite-Scroll).
 
 ## Features Implemented
 
- **Infinite Scroll**: 
+1. **Infinite Scroll**: 
   - Automatically loads more posts as the user scrolls down.
- **React Query Integration**: 
+
+2. **React Query Integration**: 
   - Efficiently manages and caches the fetched data.
- **Intersection Observer**: 
+
+3. **Intersection Observer**: 
   - Tracks when the user approaches the end of the list to trigger loading of more data.
 
 ## How to Run
