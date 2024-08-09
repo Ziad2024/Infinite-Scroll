@@ -26,3 +26,7 @@ Check out the live demo [here](https://infinite-scroll-alpha-six.vercel.app/#top
 
  - **Install Dependencies:**
    - `npm i`
+
+### Run the project:
+ - `npm start`
+
