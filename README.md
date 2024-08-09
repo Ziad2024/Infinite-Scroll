@@ -3,7 +3,7 @@ This is a React application that implements an infinite scroll feature. The app 
 
 ## Demo
 
-Check out the live demo [here](https://github.com/Ziad2024/Infinite-Scroll).
+Check out the live demo [here](https://infinite-scroll-alpha-six.vercel.app/#top).
 
 ## Features Implemented
 
