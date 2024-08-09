@@ -19,5 +19,5 @@ Check out the live demo [here](https://github.com/Ziad2024/Infinite-Scroll).
 
 ### Setup
 
- - **Install Deendencies:**
+ - **Install Dependencies:**
    - `npm i`
